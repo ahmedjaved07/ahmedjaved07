@@ -6,7 +6,7 @@ Hi, I'm Ahmed Javed
 
 🚀 About Me
 
-Hi! I’m Ahmed Javed — a curious and driven AI student who loves turning ideas into real-world solutions. From developing fun Python games and sleek Flutter apps to training ML models and designing structured databases, I enjoy blending creativity with logic.
+Hi! I’m Ahmed Javed, a curious and driven AI student who loves turning ideas into real-world solutions. From developing fun Python games and sleek Flutter apps to training ML models and designing structured databases, I enjoy blending creativity with logic.
 
 Currently, I’m diving deeper into full-stack development with Django and modern web technologies to build scalable, impactful applications.
 
